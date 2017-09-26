@@ -1,0 +1,20 @@
+M:\Year 2\OO\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.exe.config
+M:\Year 2\OO\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.csprojResolveAssemblyReference.cache
+C:\Users\PortalLife\Documents\uNI\oo\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.exe.config
+M:\OO Dev\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.exe.config
+M:\OO Dev\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\UNI stuff\OO software dev\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.exe.config
+C:\Users\alex\Documents\UNI stuff\OO software dev\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.csprojResolveAssemblyReference.cache
+M:\Object Oriented\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.exe.config
+M:\OO Dev\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.exe
+M:\OO Dev\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.pdb
+M:\OO Dev\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.exe
+M:\OO Dev\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.pdb
+H:\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.exe.config
+H:\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.exe
+H:\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.pdb
+C:\Users\PortalLife\Documents\uNI\oo\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.exe
+C:\Users\PortalLife\Documents\uNI\oo\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.pdb
+C:\Users\PortalLife\Documents\uNI\oo\CW2\EDepotSystem\EDepotSystem\obj\Debug\EDepotSystem.csprojResolveAssemblyReference.cache
+C:\Users\PortalLife\Documents\uNI\oo\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.exe
+C:\Users\PortalLife\Documents\uNI\oo\CW2\EDepotSystem\EDepotSystem\bin\Debug\EDepotSystem.pdb
